@@ -7,4 +7,4 @@
 * [IM2603](https://github.com/frogollum/frogollum/blob/main/IM2603_Basis.md)
 
 ### Stop Tracing
-- [x] [IM2507](https://github.com/frogollum/frogollum/blob/main/IM2507_Basis.md)
+* ~~[IM2507](https://github.com/frogollum/frogollum/blob/main/IM2507_Basis.md)~~
